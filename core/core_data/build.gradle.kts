@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.mkiperszmid.core_data"
+    namespace = "com.alepagani.core_data"
     compileSdk = 34
 
     defaultConfig {

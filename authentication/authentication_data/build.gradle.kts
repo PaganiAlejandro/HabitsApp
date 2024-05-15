@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.mkiperszmid.authentication_data"
+    namespace = "com.alepagani.authentication_data"
     compileSdk = libs.versions.compileSdk.get().toInt()
 
     defaultConfig {

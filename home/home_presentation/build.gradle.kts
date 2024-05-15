@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.mkiperszmid.home_presentation"
+    namespace = "com.alepagani.home_presentation"
     compileSdk = libs.versions.compileSdk.get().toInt()
 
     defaultConfig {

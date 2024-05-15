@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.mkiperszmid.onboarding_data"
+    namespace = "com.alepagani.onboarding_data"
     compileSdk = libs.versions.compileSdk.get().toInt()
 
     defaultConfig {
